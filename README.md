@@ -24,7 +24,7 @@ To install the Python dependencies of the SimpleLoRA, you can enter the root fol
 
 Open your ComfyUI and create an **empty workflow**. Add the node 'LoRATrainer' by right-clicking your mouse and sequentially select 'Add Node', 'SimpleLoRA' and 'LoRATrainer', or directly search 'LoRATrainer' using the search tool. The workflow containing **only a single node** should look like this:
 
-![](.\figures\workflow.jpg)
+![](https://github.com/sifengshang/ComfyUI_SimpleLoRA/blob/main/figures/workflow.jpg)
 
 ### Configure the node
 
@@ -74,7 +74,7 @@ If training successful, you can immediately apply the trained LoRA to the corres
 
 Below are some showcases of the trained LoRA.
 
-![](.\figures\showcases.jpg)
+![](https://github.com/sifengshang/ComfyUI_SimpleLoRA/blob/main/figures/showcases.jpg)
 
 
 
